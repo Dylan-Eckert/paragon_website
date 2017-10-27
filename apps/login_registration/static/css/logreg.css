@@ -1,0 +1,31 @@
+.log_reg_form {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-right: 20px;
+}
+    .log_reg_form input {
+      background-color: silver;
+      color: black;
+      border: solid black 2px;
+      border-radius: 5px;
+    }
+    .log_reg_form h1 {
+      color: white;
+    }
+.submit {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: silver;
+}
+
+label {
+  color: white;
+}
+body {
+  background: linear-gradient(grey, black);
+}
+.navbar {
+  background: linear-gradient(grey, silver);
+  border-radius: 5px;
+}
