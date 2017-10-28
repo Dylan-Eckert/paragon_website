@@ -28,14 +28,16 @@ body {
   border-radius: 10px;
   border: solid black 2px;
   display: inline-block;
-  width: 596px;
+  width: 800px;
   margin: 5px 0px;
   background-color: silver;
+  padding: 10px;
 }
 #tips {
   border-radius: 10px;
   border: solid black 2px;
   display: inline-block;
-  width: 596px;
+  width: 800px;
   background-color: silver;
+  padding: 10px;
 }

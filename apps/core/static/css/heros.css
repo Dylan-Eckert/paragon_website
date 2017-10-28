@@ -35,6 +35,7 @@ body {
   border-radius: 5px;
   margin-bottom: 5px;
   display: inline-block;
+  background-color: silver;
 }
 .rightsidebar{
   width: 300px;
@@ -66,6 +67,7 @@ body {
   border-radius: 5px;
   display: inline-block;
   float: right;
+  background-color: silver;
 }
 #abilities {
   display: inline-block;
@@ -73,11 +75,12 @@ body {
 }
 .ability {
   display: inline-block;
-  width: 248px;
+  width: 500px;
   height: 250px;
   vertical-align: top;
   border: 2px solid black;
   border-radius: 5px;
   margin-bottom: 5px;
   padding: 10px;
+  background-color: silver;
 }
